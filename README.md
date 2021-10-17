@@ -96,6 +96,7 @@ Here are some ideas to get you started:
 
 <img alt="Shubham Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubham0809200&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
+Love to  <b>Program<b>  💚💚
 
 ![](https://komarev.com/ghpvc/?username=your-github-shubham0809200&style=flat-square)
 
