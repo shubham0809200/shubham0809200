@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <br/>
   
   
-  <div align="center">
+<div align="center">
 <p align="center">Let's connect!</p>
 <a href="https://twitter.com/kr08092000/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -30,17 +30,16 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-
 <a href="https://www.facebook.com/shubham.mounster/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-  </div>
+  
+</div>
 <!-- 
 <a href="">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
   
-
 <a href="">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a> 
