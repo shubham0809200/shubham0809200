@@ -39,19 +39,19 @@ Here are some ideas to get you started:
 
 ### A Student, Developer & Writer
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="boy.gif" width="500" height="320" />
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ Former Google DSC Lead [COMSATS Islamabad][dsccui]
 - 👉 Leading [Flutter Islamabad][flutter_isb]
 - 💻 The tech I'm interested Flutter/ML/AR etc.
-- ✍ Technical writer at [Medium][medium]
-- 📱 First Live app on Play Store [Holy Qur'an App][quran]
-- ✨ I'm learning Flutter, Web scrapping, Automations etc.
-- 🎮 COD Modern Warfare 1 Multiplayer
+- ✨ I'm learning Flutter, Angular, Coding etc.
 - 📄 Live [Portfolio][profile]
-- 🎨 [Dribbble][dribbble] profile
+<!-- - ✍ Technical writer at [Medium][medium]
+- 📱 First Live app on Play Store [Holy Qur'an App][quran]
+- 🙋‍♂️ Former Google DSC Lead [COMSATS Islamabad][dsccui]
+- 🎮 COD Modern Warfare 1 Multiplayer
+- 🎨 [Dribbble][dribbble] profile -->
 
 
 
