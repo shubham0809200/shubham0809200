@@ -35,8 +35,11 @@ Here are some ideas to get you started:
 </a>
   
 </div>
+
 <br>
+
 <div>
+  
 ### A Student, Developer & Writer
 
 <img align="right" alt="GIF" src="boy.gif" width="500" height="320" />
@@ -52,6 +55,7 @@ Here are some ideas to get you started:
 - 🙋‍♂️ Former Google DSC Lead [COMSATS Islamabad][dsccui]
 - 🎮 COD Modern Warfare 1 Multiplayer
 - 🎨 [Dribbble][dribbble] profile -->
+  
 <br>
   
 </div>
@@ -70,7 +74,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg" height="auto" width="40px">
 
 </div>
-
+<br>
 <summary>📝 My GitHub Stats</summary>
 <br>
  
