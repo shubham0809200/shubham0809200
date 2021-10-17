@@ -49,8 +49,8 @@ Here are some ideas to get you started:
 - 💻 The tech I'm interested Flutter/ML/AR etc.
 - ✨ I'm learning Flutter, Angular, Coding etc.
 - 👀 I'm intrested in coding.
-- 📫 How to reach me: shubham.kr08092000@gmail.com
-- 📄 Live [Portfolio][https://shubham0809200.github.io/My-PortFolio/]
+- 📫 Reach me @ [mail]
+- 📄 Live [Portfolio][profile]
 <!-- 
 - 👉 Leading [Flutter Islamabad][flutter_isb]
 - ✍ Technical writer at [Medium][medium]
@@ -102,9 +102,19 @@ Love to  <b>Program<b>  💚💚
 <br>
 
 <img alt="Shubham Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubham0809200&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  
+  
+  
+  
+[mail]: shubham.kr08092000@gmail.com
+[profile]: https://shubham0809200.github.io/My-PortFolio/
+  
+  
+  
+  
+  
 
 <!-- 
-
 
 <a href="">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
@@ -152,6 +162,5 @@ Love to  <b>Program<b>  💚💚
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 
 -->
