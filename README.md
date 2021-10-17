@@ -17,6 +17,16 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=your-github-shubham0809200&style=flat-square)
 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shubham Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubham0809200&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
+
+<!-- 
+## Contact Me  :maple_leaf:
+
+<p align="center"> -->
+
+
 <!-- - 💬 Ask me about web and Android development -->
 
 <!--
