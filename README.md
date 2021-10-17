@@ -1,4 +1,4 @@
-### Hi I'm Shubham Kumar 👋
+## Hi I'm Shubham Kumar 👋
 
 <!--
 **shubham0809200/shubham0809200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <div>
   
   
-### A Student, Developer & Writer
+### A Student & Developer 
 
 <img align="right" alt="GIF" src="boy.gif" width="450px" height="320" />
 
@@ -49,15 +49,9 @@ Here are some ideas to get you started:
 - 💻 The tech I'm interested Flutter/ML/AR etc.
 - ✨ I'm learning Flutter, Angular, Coding etc.
 - 👀 I'm intrested in coding.
-- 📫 Reach me @ [mail]
+- 📫 Reach me @ shubham.kr08092000@gmail.com
 - 📄 Live [Portfolio][profile]
-<!-- 
-- 👉 Leading [Flutter Islamabad][flutter_isb]
-- ✍ Technical writer at [Medium][medium]
-- 📱 First Live app on Play Store [Holy Qur'an App][quran]
-- 🙋‍♂️ Former Google DSC Lead [COMSATS Islamabad][dsccui]
-- 🎮 COD Modern Warfare 1 Multiplayer
-- 🎨 [Dribbble][dribbble] profile -->
+
 
 <br><br><br><br><br>
 </div>
@@ -115,6 +109,16 @@ Love to  <b>Program<b>  💚💚
   
 
 <!-- 
+
+
+- 👉 Leading [Flutter Islamabad][flutter_isb]
+- ✍ Technical writer at [Medium][medium]
+- 📱 First Live app on Play Store [Holy Qur'an App][quran]
+- 🙋‍♂️ Former Google DSC Lead [COMSATS Islamabad][dsccui]
+- 🎮 COD Modern Warfare 1 Multiplayer
+- 🎨 [Dribbble][dribbble] profile
+
+
 
 <a href="">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
