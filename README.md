@@ -56,8 +56,7 @@ Here are some ideas to get you started:
 - 🙋‍♂️ Former Google DSC Lead [COMSATS Islamabad][dsccui]
 - 🎮 COD Modern Warfare 1 Multiplayer
 - 🎨 [Dribbble][dribbble] profile -->
-    
-<br><br><br><br><br><br><br>
+
   
 </div>
 
