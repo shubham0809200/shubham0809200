@@ -15,6 +15,37 @@ Here are some ideas to get you started:
 
   <br/>
   
+  
+  <div align="center">
+<p align="center">Let's connect!</p>
+<a href="https://twitter.com/kr08092000/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/not_shub.official/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/shubham-kumar-b281a7201/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+
+<a href="https://www.facebook.com/shubham.mounster/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+  </div>
+<!-- 
+<a href="">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+  
+
+<a href="">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a> 
+-->
+
 <h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">Languages and Tools</h3> 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" height="auto" width="60px">
