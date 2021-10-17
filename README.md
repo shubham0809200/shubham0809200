@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 <div class="row">
   
 <div class="col-md-2">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham0809200&show_icons=true&theme=radical)
+  
 </div>
   <div class="col-md-2">
 
