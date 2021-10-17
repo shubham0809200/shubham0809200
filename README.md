@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <!-- <img   style="border: 2px solid #fff;" alt="Shubham kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham0809200&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/> -->
 </p>
 <br>
-
+<h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">Languages and Tools</h3> 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" height="auto" width="60px">
 <!-- <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" height="auto" width="40px"> -->
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <img alt="Shubham Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubham0809200&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
-<h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">Languages and Tools</h3> 
+
 
 
 
