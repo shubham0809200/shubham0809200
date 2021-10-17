@@ -52,15 +52,6 @@ Here are some ideas to get you started:
 - 🙋‍♂️ Former Google DSC Lead [COMSATS Islamabad][dsccui]
 - 🎮 COD Modern Warfare 1 Multiplayer
 - 🎨 [Dribbble][dribbble] profile -->
-
-
-
-<summary>📝 My GitHub Stats</summary>
-<br>
- 
-<!-- <img alt="Shubham kumar's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shubham0809200&show_icons=true&theme=radical" height="192px"/> -->
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham0809200&show_icons=true&theme=radical)
-
 <br>
 
 <div align="center">
@@ -77,6 +68,16 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg" height="auto" width="40px">
 
 </div>
+
+<summary>📝 My GitHub Stats</summary>
+<br>
+ 
+<!-- <img alt="Shubham kumar's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shubham0809200&show_icons=true&theme=radical" height="192px"/> -->
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham0809200&show_icons=true&theme=radical)
+
+<br>
+
+
 
 <br>
 
