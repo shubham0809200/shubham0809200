@@ -11,8 +11,10 @@ Here are some ideas to get you started:
 -->
 - 👀 I'm intrested in coding.
 - 🌱 I’m currently learning competetive coding and development.
-<!-- - 💬 Ask me about web and Android development -->
 - 📫 How to reach me: shubham.kr08092000@gmail.com
+
+<!-- - 💬 Ask me about web and Android development -->
+
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
