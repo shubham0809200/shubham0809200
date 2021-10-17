@@ -13,10 +13,17 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning competetive coding and development.
 - 📫 How to reach me: shubham.kr08092000@gmail.com
 
+<div class="row">
+  
+<div class="col-md-2">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham0809200&show_icons=true&theme=radical)
+</div>
+  <div class="col-md-2">
 
 <img alt="Shubham kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham0809200&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
-
+  </div>
+  </div>
+  
 ![](https://komarev.com/ghpvc/?username=your-github-shubham0809200&style=flat-square)
 
 <img alt="Shubham Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubham0809200&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
