@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   
 ### A Student, Developer & Writer
 
-<img align="left" alt="GIF" src="boy.gif" width="auto" height="320" />
+<img align="right" alt="GIF" src="boy.gif" width="350px" height="320" />
 
 #### Talking about my personal stuff:
 
