@@ -40,10 +40,12 @@ Here are some ideas to get you started:
 
 <div>
   
+  <br><br><br><br><br><br>
+  
 ### A Student, Developer & Writer
 
 <img align="right" alt="GIF" src="boy.gif" width="500" height="320" />
-<br><br><br><br><br><br>
+
 #### Talking about my personal stuff:
 
 - 👉 Leading [Flutter Islamabad][flutter_isb]
