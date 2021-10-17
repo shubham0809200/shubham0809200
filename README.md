@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg" height="auto" width="40px">
 
 </div>
-<br>
+<br> <br>
 <summary>📝 My GitHub Stats</summary>
 <br>
  
