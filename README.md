@@ -43,9 +43,9 @@ Here are some ideas to get you started:
   
 ### A Student, Developer & Writer
 
-<img align="center" alt="GIF" src="boy.gif" width="350" height="320" />
+<img align="left" alt="GIF" src="boy.gif" width="350" height="320" />
 
-<div width="350"  >
+<div  >
 #### Talking about my personal stuff:
 
 - 👉 Leading [Flutter Islamabad][flutter_isb]
