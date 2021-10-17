@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 <br>
  
 <img alt="Shubham kumar's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shubham0809200&show_icons=true&theme=radical" height="192px"/>
-[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham0809200&show_icons=true&theme=radical)]
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham0809200&show_icons=true&theme=radical)
 
 <br>
 
