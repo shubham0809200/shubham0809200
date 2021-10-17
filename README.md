@@ -9,9 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -->
-- 👀 I'm intrested in coding.
-- 🌱 I’m currently learning competetive coding and development.
-- 📫 How to reach me: shubham.kr08092000@gmail.com
+
 
   <br/>
   
@@ -47,11 +45,15 @@ Here are some ideas to get you started:
 
 #### Talking about my personal stuff:
 
-- 👉 Leading [Flutter Islamabad][flutter_isb]
+- 🌱 I’m currently practicing competetive coding and development.
 - 💻 The tech I'm interested Flutter/ML/AR etc.
 - ✨ I'm learning Flutter, Angular, Coding etc.
-- 📄 Live [Portfolio][profile]
-<!-- - ✍ Technical writer at [Medium][medium]
+- 👀 I'm intrested in coding.
+- 📫 How to reach me: shubham.kr08092000@gmail.com
+- 📄 Live [Portfolio][https://shubham0809200.github.io/My-PortFolio/]
+<!-- 
+- 👉 Leading [Flutter Islamabad][flutter_isb]
+- ✍ Technical writer at [Medium][medium]
 - 📱 First Live app on Play Store [Holy Qur'an App][quran]
 - 🙋‍♂️ Former Google DSC Lead [COMSATS Islamabad][dsccui]
 - 🎮 COD Modern Warfare 1 Multiplayer
