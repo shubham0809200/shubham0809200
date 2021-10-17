@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a> 
 -->
-
+<div align="center">
 <p align="center">🛠 Tools & Technology</p>
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -54,6 +54,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
 
+</div>
+
+<br>
 
 
 <!-- <h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">Languages and Tools</h3> 
