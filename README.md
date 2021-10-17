@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   
 </div>
 <br>
-
+<div>
 ### A Student, Developer & Writer
 
 <img align="right" alt="GIF" src="boy.gif" width="500" height="320" />
@@ -53,6 +53,8 @@ Here are some ideas to get you started:
 - 🎮 COD Modern Warfare 1 Multiplayer
 - 🎨 [Dribbble][dribbble] profile -->
 <br>
+  
+</div>
 
 <div align="center">
 <p align="center">🛠 Tools & Technology</p>
