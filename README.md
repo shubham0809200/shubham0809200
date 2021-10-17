@@ -43,9 +43,8 @@ Here are some ideas to get you started:
   
 ### A Student, Developer & Writer
 
-<img align="left" alt="GIF" src="boy.gif" margin="30px" width="auto" height="320" />
+<img align="left" alt="GIF" src="boy.gif" width="auto" height="320" />
 
-<div width="auto" >
 #### Talking about my personal stuff:
 
 - 👉 Leading [Flutter Islamabad][flutter_isb]
@@ -58,8 +57,6 @@ Here are some ideas to get you started:
 - 🎮 COD Modern Warfare 1 Multiplayer
 - 🎨 [Dribbble][dribbble] profile -->
     
-  
-</div>
 <br><br><br><br><br><br><br><br>
   
 </div>
