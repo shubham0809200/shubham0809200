@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   
 ### A Student & Developer 
 
-<img align="right" alt="GIF" src="boy.gif" width="450px" height="320" />
+<img align="right" alt="GIF" src="boy.gif" width="500px" height="320" />
 
 #### Talking about my personal stuff:
 
