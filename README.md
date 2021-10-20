@@ -30,14 +30,14 @@
 <div>
   
   
-### A Student by Day & Developer by Night
+### A Student & Developer
 
 <img align="right" alt="GIF" src="boy.gif" width="500px" height="320" />
 
 #### Talking about my personal stuff:
 
-- 🌱 I’m currently practicing competetive coding and development.
-- 💻 The tech I'm interested Flutter/ML/AR etc.
+- 🌱 I’m currently a student practicing competetive coding and development.
+- 💻 The tech I'm interested Flutter /Angular /ML /AR etc.
 - ✨ I'm learning Flutter, Angular, Coding etc.
 - 👀 I'm intrested in coding.
 - 📫 Reach me @ shubham.kr08092000@gmail.com
