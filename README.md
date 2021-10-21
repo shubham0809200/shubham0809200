@@ -1,4 +1,4 @@
-## Hi I'm # About [Shubham Kumar][profile] 👋
+## Hi I'm [Shubham Kumar][profile] 👋
 
 ![](https://komarev.com/ghpvc/?username=your-github-shubham0809200&style=flat-square)
 
