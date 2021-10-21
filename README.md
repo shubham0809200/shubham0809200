@@ -1,10 +1,36 @@
-## Hi I'm Shubham Kumar 👋
+## Hi I'm # About [Shubham Kumar][profile] 👋
 
-
+![](https://komarev.com/ghpvc/?username=your-github-shubham0809200&style=flat-square)
 
   <br/>
   
   
+
+
+<div>
+  
+  
+### A Student & Developer
+
+<img align="right" alt="GIF" src="boy.gif" width="500px" height="320" />
+
+#### Talking about my personal stuff:
+
+- 🌱 I’m currently a student practicing competetive coding and development.
+- 💻 The tech I'm interested Flutter /Angular /ML /AR etc.
+- ✨ I'm learning Flutter, Angular, Coding etc.
+- 👀 I'm intrested in coding.
+- 📫 Reach me @ shubham.kr08092000@gmail.com
+- 📄 Live [Portfolio][profile]
+
+
+<br><br><br>
+</div>
+
+
+<br>
+<hr>
+
 <div align="center">
 <p align="center">Let's connect!</p>
 <a href="https://twitter.com/kr08092000/">
@@ -26,27 +52,7 @@
 </div>
 
 <br>
-
-<div>
-  
-  
-### A Student & Developer
-
-<img align="right" alt="GIF" src="boy.gif" width="500px" height="320" />
-
-#### Talking about my personal stuff:
-
-- 🌱 I’m currently a student practicing competetive coding and development.
-- 💻 The tech I'm interested Flutter /Angular /ML /AR etc.
-- ✨ I'm learning Flutter, Angular, Coding etc.
-- 👀 I'm intrested in coding.
-- 📫 Reach me @ shubham.kr08092000@gmail.com
-- 📄 Live [Portfolio][profile]
-
-
-<br><br><br><br><br>
-</div>
-
+<hr>
 <br>
 
 <div align="center">
@@ -63,30 +69,34 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg" height="auto" width="40px">
 
 </div>
-<br> <br>
-<summary>📝 My GitHub Stats</summary>
+<br>
+<hr>
+<br>
+<p align="center">�📝My GitHub Stats</p>
 <br>
  
 <!-- <img alt="Shubham kumar's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shubham0809200&show_icons=true&theme=radical" height="192px"/> -->
 <!-- ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham0809200&show_icons=true&theme=radical) -->
 <!-- ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham0809200&show_icons=true&theme=radical)
 <br> -->
-![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubham0809200&show_icons=true&theme=radical&count_private=true)</br>
-
-
-
+<div align="center" >
+<a href="https://github.com/shubham0809200?tab=repositories">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham0809200&&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366&show_icons=true&theme=dracula&line_height=27" alt="Shubham's github stats"/>
+</a>
+</div>
+<br>
 <br>
 
 <!-- <img  alt="Shubham kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham0809200&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" />
 <br> -->
 
-<img alt="Shubham Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubham0809200&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Shubham Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubham0809200&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366&show_icons=true&theme=dracula&line_height=2" />
 
 
 
 Love to  <b>Program<b>  💚💚
 
-![](https://komarev.com/ghpvc/?username=your-github-shubham0809200&style=flat-square)
+
   
   
   
@@ -97,10 +107,11 @@ Love to  <b>Program<b>  💚💚
   
   
   
-  
-
-<!-- 
-
+  <!--
+ 
+<a href="https://github.com/shubham0809200?tab=repositories">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham0809200&theme=dark&hide_langs_below=1&bg_color=002366&icon_color=87ceeb&text_color=daf7dc&title_color=ffffff" />
+</a> 
 
 **shubham0809200/shubham0809200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
