@@ -35,7 +35,7 @@
     
 <p align="center">Let's connect!</p>
   
-<img src="/Untitled5.png" height="auto" width="150px">  <br><br>
+<img src="/Untitled5.png" height="auto" width="180px">  <br>
   
 <a href="https://twitter.com/kr08092000/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
