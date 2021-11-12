@@ -33,7 +33,7 @@
 
 <div align="center">
   
-  <img src="/Untitled5.png" height="auto" width="40px">  
+  <img src="/Untitled5.png" height="auto" width="100px">  
   
 <p align="center">Let's connect!</p>
 <a href="https://twitter.com/kr08092000/">
