@@ -106,7 +106,7 @@ Love to  <b>Program<b>  💚💚
   
   
 [mail]: shubham.kr08092000@gmail.com
-[profile]: https://shubham-folio.web.app/
+[profile]: https://shubhamkr.web.app/
   
   
   
