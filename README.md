@@ -53,6 +53,8 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
   
+ ![Shashank's github stats](https://github-readme-stats.vercel.app/api?username=shubham0809200&show_icons=true&theme=radical&count_private=true)</br>
+  
 </div>
 
 <br>
