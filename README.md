@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Untitled5.png" width="150" alt="Shubham Kumar" />
+<img src="./Untitled5.png" width="150" alt="Shubham Kumar" /> 
 
 # Shubham Kumar
 
