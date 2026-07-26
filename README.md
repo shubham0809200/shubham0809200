@@ -1,188 +1,124 @@
-## Hi I'm [Shubham Kumar][profile] 👋
-
-![](https://komarev.com/ghpvc/?username=your-github-shubham0809200&style=flat-square)
-
-  <br/>
-  
-  
-
-
-<div>
-  
-  
-### A Student & Developer
-
-<img align="right" alt="GIF" src="boy.gif" width="500px" height="320" />
-
-#### Talking about my personal stuff:
-
-- 🌱 I’m currently a student practicing competetive coding and development.
-- 💻 The tech I'm interested Flutter /Angular /ML /AR etc.
-- ✨ I'm learning Flutter, Angular, Coding etc.
-- 👀 I'm intrested in coding.
-- 📫 Reach me @ shubham.kr08092000@gmail.com
-- 📄 Live [Portfolio][profile]
-
-
-<br><br><br>
-</div>
-
-
-<br>
-<hr>
-
 <div align="center">
-    
-<p align="center">Let's connect!</p>
-  
-<img src="/Untitled5.png" height="auto" width="180px">  <br>
-  
-<a href="https://twitter.com/kr08092000/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
 
-<a href="https://www.instagram.com/not_shub.official/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<img src="./Untitled5.png" width="150" alt="Shubham Kumar" />
 
-<a href="https://www.linkedin.com/in/shubham-kumar-b281a7201/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+# Shubham Kumar
 
-<a href="https://www.facebook.com/shubham.mounster/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-  
-  
-</div>
+### Professional Software Developer | Product Builder
 
-<br>
-<hr>
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=Building+real+products+for+real+users;Flutter+%7C+Angular+%7C+Firebase+%7C+Node.js;Clean+UI%2C+useful+tools%2C+better+developer+experience;Shipping+software+that+solves+real+problems)](https://git.io/typing-svg)
 
-<div align="center">
-<p align="center">🛠 Tools & Technology</p>
-  
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" height="auto" width="40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg" height="auto" width="40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mongodb/mongodb-original.svg" height="auto" width="40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/postgresql/postgresql-original.svg" height="auto" width="40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" height="auto" width="40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain.svg" height="auto" width="40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/firebase/firebase-plain.svg" height="auto" width="40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/android/android-original-wordmark.svg" height="auto" width="40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg" height="auto" width="40px">
+[![Public Project](https://img.shields.io/badge/Public%20Project-DummyImg-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)][dummyimg]
+[![Portfolio](https://img.shields.io/badge/Portfolio-shubhamkr.web.app-0ea5e9?style=for-the-badge&logo=firefox&logoColor=white)][portfolio]
+[![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white)][email]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
 </div>
-<br>
-<hr>
-<br>
-<!-- <p align="center">�📝My GitHub Stats</p>
-<br> -->
- 
-<!-- <img alt="Shubham kumar's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shubham0809200&show_icons=true&theme=radical" height="192px"/> -->
-<!-- ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham0809200&show_icons=true&theme=radical) -->
-<!-- ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham0809200&show_icons=true&theme=radical)
-<br> -->
-<!-- <div align="center" >
-<a href="https://github.com/shubham0809200?tab=repositories">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham0809200&&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366&show_icons=true&theme=dracula&line_height=27" alt="Shubham's github stats"/>
-</a>
-</div> -->
-<br>
-<br>
 
-<!-- <img  alt="Shubham kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham0809200&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" />
-<br> -->
+---
 
-<!-- <img alt="Shubham Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubham0809200&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366&show_icons=true&theme=dracula&line_height=2" /> -->
+## About Me
 
+I am a professional software developer focused on building practical, clean, and user-friendly digital products. I work across mobile, web, backend, and developer tools, with a strong interest in simple interfaces, reliable APIs, and products that solve real workflow problems.
 
+- Building production-ready apps with **Flutter**, **Angular**, **Firebase**, and **Node.js**.
+- Creating tools that improve developer productivity and reduce repetitive work.
+- Experienced with frontend interfaces, backend APIs, databases, authentication, and deployment.
+- Interested in **machine learning**, **augmented reality**, and modern product engineering.
+- Always improving code quality, UX details, performance, and maintainability.
+- Public project live now: **[DummyImg][dummyimg]**, a simple placeholder image generator/API you can visit and use.
 
-Love to  <b>Program<b>  💚💚
+## What I Build
 
+| Area            | Focus                                                                     |
+| --------------- | ------------------------------------------------------------------------- |
+| Mobile apps     | Flutter apps with clean UI, smooth flows, and Firebase-powered features   |
+| Web apps        | Angular dashboards, responsive interfaces, and practical user experiences |
+| Backend systems | Node.js APIs, authentication, databases, and deployment-ready services    |
+| Developer tools | Utilities like DummyImg that make everyday development faster             |
+| Experiments     | ML, AR, automation, and product ideas worth prototyping                   |
 
-  
-  
-  
-  
-[mail]: shubham.kr08092000@gmail.com
-[profile]: https://shubhamkr.web.app/
-  
-  
-  
-  
-  <!--
- 
-<a href="https://github.com/shubham0809200?tab=repositories">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham0809200&theme=dark&hide_langs_below=1&bg_color=002366&icon_color=87ceeb&text_color=daf7dc&title_color=ffffff" />
-</a> 
+## Tech Stack
 
-**shubham0809200/shubham0809200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
 
-Here are some ideas to get you started:
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=111111)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ed8b00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+### Frontend and Mobile
 
+![Flutter](https://img.shields.io/badge/Flutter-02569b?style=for-the-badge&logo=flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### Backend, Database and Tools
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=111111)
+![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3ddc84?style=for-the-badge&logo=androidstudio&logoColor=111111)
 
-- 👉 Leading [Flutter Islamabad][flutter_isb]
-- ✍ Technical writer at [Medium][medium]
-- 📱 First Live app on Play Store [Holy Qur'an App][quran]
-- 🙋‍♂️ Former Google DSC Lead [COMSATS Islamabad][dsccui]
-- 🎮 COD Modern Warfare 1 Multiplayer
-- 🎨 [Dribbble][dribbble] profile
+## GitHub Snapshot
 
-
-
-<a href="">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</a>
-  
-<a href="">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a> 
-
-
-
- <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
-
-
-
-<h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">Languages and Tools</h3> 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" height="auto" width="30px">
-<img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" height="auto" width="40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg" height="auto" width="30px%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mongodb/mongodb-original.svg" height="auto" width="30px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/postgresql/postgresql-original.svg" height="auto" width="30px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" height="auto" width="30px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain.svg" height="auto" width="30px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/firebase/firebase-plain.svg" height="auto" width="30px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/android/android-original-wordmark.svg" height="auto" width="30px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg" height="auto" width="30px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original.svg" height="auto" width="60px">
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=shubham0809200&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Shubham Kumar's GitHub stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham0809200&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shubham0809200&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham0809200&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+</p>
+
+## Professional Mindset
+
+```txt
+Build useful products.
+Keep the interface simple.
+Make the API reliable.
+Ship, learn, improve, repeat.
+```
+
+<div align="center">
+
+## Connect With Me
+
+<a href="https://twitter.com/kr08092000/">
+  <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+<a href="https://www.instagram.com/not_shub.official/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://www.linkedin.com/in/shubham-kumar-b281a7201/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.facebook.com/shubham.mounster/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+
+<br>
 <br>
 
+<b>Professional developer. Product builder. Always shipping better.</b>
 
-## Contact Me  :maple_leaf:
+</div>
 
-<p align="center"> -->
-
-
-<!-- - 💬 Ask me about web and Android development -->
-
-<!--
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
+[dummyimg]: https://www.dummyimg.in/
+[portfolio]: https://shubhamkr.web.app/
+[email]: mailto:shubham.kr08092000@gmail.com
+[linkedin]: https://www.linkedin.com/in/shubham-kumar-b281a7201/
+[twitter]: https://twitter.com/kr08092000/
